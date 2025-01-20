@@ -1,6 +1,6 @@
 # Olá, eu sou Vitoria Amaro 👩‍💻
 
-Sou programadora e atualmente estou cursando um **curso técnico** no [Senai]. Tenho um grande interesse por **back-end** e estou me aprofundando nos conceitos e ferramentas dessa área para construir soluções eficientes e escaláveis.
+Atualmente ingressada no curso superior ADS (Análise e Desenvolvimentos de Sistemas) pelo Senai. Tenho um grande interesse por **back-end** e estou me aprofundando nos conceitos e ferramentas dessa área para construir soluções eficientes e escaláveis.
 
 ## 🚀 Tecnologias que estou aprendendo
 
