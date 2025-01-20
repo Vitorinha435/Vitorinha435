@@ -6,7 +6,7 @@ Atualmente ingressada no curso técnico TDS (Técnico em Desenvolvimentos de Sis
 
 - **Linguagens**: Python, Java, JavaScript, PHP e Ruby.
 - **Frameworks**: back-end, como Django, Laravel, Spring Boot e Rails.
-• **Bancos de dados**: como MySQL, PostgreSQL, MongoDB e DynamoDB.
+-  **Bancos de dados**: como MySQL, PostgreSQL, MongoDB e DynamoDB.
 - **Outros**: APIs, como REST e SOAP, Segurança web, como autenticação, autorização e criptografia.
 
 
