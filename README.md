@@ -1,4 +1,4 @@
-# Olá, eu sou [Vitoria] 👩‍💻
+# Olá, eu sou Vitoria Amaro 👩‍💻
 
 Sou programadora e atualmente estou cursando um **curso técnico** no [Senai]. Tenho um grande interesse por **back-end** e estou me aprofundando nos conceitos e ferramentas dessa área para construir soluções eficientes e escaláveis.
 
