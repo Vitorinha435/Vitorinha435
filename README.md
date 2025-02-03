@@ -4,22 +4,23 @@ Atualmente ingressada no curso técnico TDS (Técnico em Desenvolvimentos de Sis
 
 ## 🚀 Tecnologias que estou aprendendo
 
-** - Linguagens de Programação** (Java, Python, JavaScript, etc.)**
-** - Banco de Dados** (relacional e não-relacional)**
-** - Desenvolvimento Web** (front-end e back-end)**
-Metodologias Ágeis e boas práticas de desenvolvimento
-Estruturas de Dados e Algoritmos
+** - Linguagens de Programação:** Java, Python, JavaScript, HTML
+** - Banco de Dados:** relacional e não-relacional
+** - Desenvolvimento Web:** front-end e back-end
+** - Ferramentas:** Git, GitHub, VS Code, IntelliJ
+** - Estruturas de Dados e Algoritmos**
 
 
 
 ## 🌱 Objetivos
 
-- Melhorar minhas habilidades em **back-end** e **arquitetura de sistemas**.
+- Melhorar minhas habilidades
+- Dominar Linguagens de Programação
 - Trabalhar em projetos que envolvem **soluções de alto desempenho**.
 
 ## 💬 Como me encontrar
 
-- Instagram: [@vii_amaro](https://twitter.com/seuTwitter)
+- Instagram: [@vii_amaro](https://instagram.com/vii_amaro)
 - Email: vitoria.amaro.tds24@gmail.com
 
 ---
