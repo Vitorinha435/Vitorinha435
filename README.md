@@ -1,13 +1,14 @@
 # Olá, eu sou Vitoria Amaro 👩‍💻
 
-Atualmente ingressada no curso técnico TDS (Técnico em Desenvolvimentos de Sistemas) pelo Senai. Tenho um grande interesse por **back-end** e estou me aprofundando nos conceitos e ferramentas dessa área para construir soluções eficientes e escaláveis.
+Atualmente ingressada no curso técnico TDS (Técnico em Desenvolvimentos de Sistemas) pelo Senai. Estou me aprofundando nos conceitos e ferramentas dessa área para construir soluções eficientes e escaláveis.
 
 ## 🚀 Tecnologias que estou aprendendo
 
-- **Linguagens**: Python, Java, JavaScript, PHP e Ruby.
-- **Frameworks**: back-end, como Django, Laravel, Spring Boot e Rails.
--  **Bancos de dados**: como MySQL, PostgreSQL, MongoDB e DynamoDB.
-- **Outros**: APIs, como REST e SOAP, Segurança web, como autenticação, autorização e criptografia.
+**Linguagens de Programação** (Java, Python, JavaScript, etc.)
+**Banco de Dados** (relacional e não-relacional)
+**Desenvolvimento Web** (front-end e back-end)
+Metodologias Ágeis e boas práticas de desenvolvimento
+Estruturas de Dados e Algoritmos
 
 
 
