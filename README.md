@@ -4,9 +4,9 @@ Atualmente ingressada no curso técnico TDS (Técnico em Desenvolvimentos de Sis
 
 ## 🚀 Tecnologias que estou aprendendo
 
-**Linguagens de Programação** (Java, Python, JavaScript, etc.)
-**Banco de Dados** (relacional e não-relacional)
-**Desenvolvimento Web** (front-end e back-end)
+** - Linguagens de Programação** (Java, Python, JavaScript, etc.)**
+** - Banco de Dados** (relacional e não-relacional)**
+** - Desenvolvimento Web** (front-end e back-end)**
 Metodologias Ágeis e boas práticas de desenvolvimento
 Estruturas de Dados e Algoritmos
 
