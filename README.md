@@ -1,6 +1,6 @@
-# Olá, eu sou Vitoria Amaro 👩‍💻
+# Oieee, eu sou Vitorinha! 👩‍💻
 
-Atualmente ingressada no curso técnico TDS (Técnico em Desenvolvimentos de Sistemas) pelo Senai. Estou me aprofundando nos conceitos e ferramentas dessa área para construir soluções eficientes e escaláveis.
+Bem-vindo ao meu repositório! Estou cursando Técnico em Desenvolvimento de Sistemas no SENAI e aqui vou compartilhar alguns dos projetos que estou criando enquanto aprendo e pratico programação.
 
 ## 🚀 Tecnologias que estou aprendendo
 
@@ -16,7 +16,6 @@ Atualmente ingressada no curso técnico TDS (Técnico em Desenvolvimentos de Sis
 
 - Melhorar minhas habilidades
 - Dominar Linguagens de Programação
-- Trabalhar em projetos que envolvem **soluções de alto desempenho**.
 
 ## 💬 Como me encontrar
 
