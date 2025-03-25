@@ -1,7 +1,7 @@
 # Oieee, eu sou Vitorinha! 🌺
 
 Bem-vindo ao meu repositório! Estou cursando Técnico em Desenvolvimento de Sistemas no SENAI e aqui vou compartilhar alguns dos projetos que estou criando enquanto aprendo e pratico programação.
-Também curso Administração na ETEC. 
+Estudante do Ensino Médio, ingressado com Administração na ETEC. 
 
 ##  Tecnologias que estou aprendendo
 
